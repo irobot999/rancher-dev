@@ -8,5 +8,5 @@
 3. Install kubectl
 - sudo snap install kubectl --classic
 
-3. Install Bash
+4. Install Bash
 - ./start.bash
