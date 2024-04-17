@@ -6,7 +6,7 @@
 - sudo apt install docker-compose
 
 3. Install kubectl
-- sudo snap install kubectl --
+- sudo snap install kubectl --classic
 
 4. Install docker compose image rancher and mount volumes docker 
 - ./start.bash
